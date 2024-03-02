@@ -36,6 +36,24 @@ texto que no es una cita.
 
 > texto que no es una cita.
 Al texto entre comillas se le ha aplicado sangria y tien un color de tipo diferente
+
+### CODIGO DE CITA
+ En este puedes indicar un comando dentro de un enunciado con comillas simples 
+ 
+     Utilice `git status` para enumerar todos los archivos nuevos o modificados que aún no se han confirmado.
+
+  Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+## MODELOS DE COLOR COMPATIBLES
+En los problemas, las solicitudes de incorporación de cambios y los debates, puedes llamar a los colores dentro de una oración mediante comillas simples. Un modelo de color compatible dentro de las comillas simples mostrará una visualización del color.
+
+
+
        
        
 
