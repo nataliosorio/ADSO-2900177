@@ -74,7 +74,7 @@ También puedes crear un hipervínculo de Markdown resaltando el texto y usando 
 Puede vincular directamente a una sección en un archivo representado si desliza el puntero sobre el encabezado de la sección para exponer .
 
 
-
+![.](imge2.JPG)
 
  
 
