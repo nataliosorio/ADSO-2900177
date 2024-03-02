@@ -54,7 +54,10 @@ puedes llamar a los colores dentro de una oración mediante comillas simples. Un
 
  The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
+
+
  ## Estos son los modelos de color admitidos actualmente.
+ 
 
 +---------+--------------+--------------+---------------------------------------------------------------------+
 |  Color  |   Sintaxis   |   Ejemplo    |                            Resultados                                |
