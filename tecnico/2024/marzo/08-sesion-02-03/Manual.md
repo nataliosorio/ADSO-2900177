@@ -58,20 +58,6 @@ puedes llamar a los colores dentro de una oración mediante comillas simples. Un
 
  ## Estos son los modelos de color admitidos actualmente.
  
-##
-+---------+--------------+--------------+---------------------------------------------------------------------+
-|  Matiz  |   Sintaxis   |   Ejemplo    |                            Consecuencias                            |
-+---------+--------------+--------------+---------------------------------------------------------------------+
-|   HEX   | `#RRGGBB`    | `#0969DA`    | Captura de visualización de GitHub Markdown en la que se observa     |
-|         |              |              | cómo aparece el código HEX #0969DA con un círculo azul.              |
-+---------+--------------+--------------+---------------------------------------------------------------------+
-|   RGB   | `rgb(R,G,B)` | `rgb(9, 105, | Captura de visualización de GitHub Markdown en la que se observa     |
-|         |              |    218)`     | cómo aparece el código RGB 9, 105, 218 con un círculo azul.         |
-+---------+--------------+--------------+---------------------------------------------------------------------+
-|   HSL   | `hsl(H,S,L)` | `hsl(212, 92%,| Captura de visualización de GitHub Markdown en la que se observa     |
-|         |              |    45%)`     | cómo aparece el código HSL 212, 92 %, 45 % con un círculo azul.     |
-+---------+--------------+--------------+---------------------------------------------------------------------+
-
 
 
 
