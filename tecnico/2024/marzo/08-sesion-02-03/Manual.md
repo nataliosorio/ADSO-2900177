@@ -58,7 +58,7 @@ puedes llamar a los colores dentro de una oración mediante comillas simples. Un
 
  ## Estos son los modelos de color admitidos actualmente.
  
-
+##
 +---------+--------------+--------------+---------------------------------------------------------------------+
 |  Matiz  |   Sintaxis   |   Ejemplo    |                            Consecuencias                            |
 +---------+--------------+--------------+---------------------------------------------------------------------+
