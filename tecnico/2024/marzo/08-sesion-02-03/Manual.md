@@ -19,7 +19,8 @@ Puedes indicar énfasis con texto en negrita, cursiva, tachado, o de subíndice 
          Ejemplo:  _Este es un ejemplo de texto en negrita_
       
 3. Tachado: ingresar (~~) mas el texto que deseas tachar.
-4.       Ejemplo:  ~~Este es ejemplo de texto tachado~~
+ 
+        Ejemplo:  ~~Este es ejemplo de texto tachado~~
    
    
 
