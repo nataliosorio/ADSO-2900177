@@ -9,7 +9,7 @@ Al usar dos o más encabezados, GitHub genera automáticamente una tabla de cont
 ## A second-level heading
 ### A third-level heading
 
-###ESTILOS DE TEXTO 
+### ESTILOS DE TEXTO 
 Puedes indicar énfasis con texto en negrita, cursiva, tachado, o de subíndice o superíndice en los campos de comentarios y archivos .md.
 1. Bold: este elemento sirve para poner la letra en negrita, funciona de la siguiente manera:
    utilizando un metodo abreviado de teclado: ctr+b y dentro de los asteriscos ingresas el texto. Ejemplo: **Este es un ejemplo de texto en negrita**
@@ -19,5 +19,6 @@ Puedes indicar énfasis con texto en negrita, cursiva, tachado, o de subíndice 
 3. Tachado: ingresar (~~) mas el texto que deseas tachar. Ejemplo:  ~~Este es ejemplo de texto tachado~~
    
    
+
 
 
