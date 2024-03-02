@@ -50,12 +50,13 @@ git commit
 ```
 
 ## MODELOS DE COLOR COMPATIBLES
-En los problemas, las solicitudes de incorporación de cambios y los debates, puedes llamar a los colores dentro de una oración mediante comillas simples. Un modelo de color compatible dentro de las comillas simples mostrará una visualización del color.
+puedes llamar a los colores dentro de una oración mediante comillas simples. Un modelo de color compatible dentro de las comillas simples mostrará una visualización del color.
+
+ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 
 
        
        
-
 
 
