@@ -65,6 +65,13 @@ puedes llamar a los colores dentro de una oración mediante comillas simples. Un
 | HSL   | \`hsl (H,S,L)\` | \`hsl (212, 92%, 45%)\` | Captura de pantalla de GitHub Markdown en la que se muestra cómo aparece el valor de HSL 212, 92 %, 45 % con un círculo azul.  |
 
 
+## Vinculos 
+ Puede crear un vínculo en línea escribiendo su texto entre corchetes [ ] y escribiendo la URL entre paréntesis ( ). También puede usar el método abreviado de teclado Command+K para crear un vínculo. Cuando haya seleccionado texto, puede pegar una dirección URL del Portapapeles para crear automáticamente un vínculo a partir de la selección.
+
+También puedes crear un hipervínculo de Markdown resaltando el texto y usando el método abreviado de teclado Comando+V. Si quieres reemplazar el texto por el vínculo, usa el método abreviado de teclado Comando+Mayús+V.
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
 
 
 
