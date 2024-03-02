@@ -57,7 +57,9 @@ puedes llamar a los colores dentro de una oración mediante comillas simples. Un
 
 
  ## Estos son los modelos de color admitidos actualmente.
- ´´´
+
+
+ 
  +---------+--------------+--------------+---------------------------------------------------------------------+
 |  Color  |   Sintaxis   |   Ejemplo    |                            Resultados                                |
 +---------+--------------+--------------+---------------------------------------------------------------------+
@@ -71,7 +73,7 @@ puedes llamar a los colores dentro de una oración mediante comillas simples. Un
 |         |              |    45%)`     | aparece el valor de HSL 212, 92 %, 45 % con un círculo azul.        |
 +---------+--------------+--------------+---------------------------------------------------------------------+
 
- ´´´
+
  
 
 
