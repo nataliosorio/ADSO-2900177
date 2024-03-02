@@ -70,7 +70,8 @@ puedes llamar a los colores dentro de una oración mediante comillas simples. Un
 
 También puedes crear un hipervínculo de Markdown resaltando el texto y usando el método abreviado de teclado Comando+V. Si quieres reemplazar el texto por el vínculo, usa el método abreviado de teclado Comando+Mayús+V.
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+## Enlaces de sección
+Puede vincular directamente a una sección en un archivo representado si desliza el puntero sobre el encabezado de la sección para exponer .
 
 
 
