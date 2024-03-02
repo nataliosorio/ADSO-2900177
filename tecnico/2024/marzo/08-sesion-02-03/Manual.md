@@ -15,11 +15,11 @@ Puedes indicar énfasis con texto en negrita, cursiva, tachado, o de subíndice 
    utilizando un metodo abreviado de teclado: ctr+b y dentro de los asteriscos ingresas el texto. Ejemplo: **Este es un ejemplo de texto en negrita**
 
 2.Cursiva: ctr+(I) e ingresas el texto. 
+
       Ejemplo:  _Este es un ejemplo de texto en negrita_
       
-3. Tachado: ingresar (~~) mas el texto que deseas tachar. 
-
-      Ejemplo:  ~~Este es ejemplo de texto tachado~~
+3. Tachado: ingresar (~~) mas el texto que deseas tachar.
+4.      Ejemplo:  ~~Este es ejemplo de texto tachado~~
    
    
 
