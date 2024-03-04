@@ -79,7 +79,7 @@ Puede vincular directamente a una sección en un archivo representado si desliza
 ## Imagenes 
 para mostrar una imagen debes agregar: ! y ajustar el texto alternativo en [ ]. El texto alternativo es un texto corto de la informacion de la imagen.Luego, escribe el vinculo de la imagen en parentesis ( ). 
 
- ![.](img1.jpg)
+ ![.](imagen.jpg)
  
 
 
