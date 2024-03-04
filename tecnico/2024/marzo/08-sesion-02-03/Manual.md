@@ -79,7 +79,8 @@ Puede vincular directamente a una sección en un archivo representado si desliza
 ## Imagenes 
 para mostrar una imagen debes agregar: ! y ajustar el texto alternativo en [ ]. El texto alternativo es un texto corto de la informacion de la imagen.Luego, escribe el vinculo de la imagen en parentesis ( ). 
 
- ![.](img1.jpg)
+ ![Imagen de github](https://tincode-django.s3.amazonaws.com/media/blog/post/017fe1a7-fe96-4730-8107-ed9d6fe2855d.jpg)
+ 
  
 
 
